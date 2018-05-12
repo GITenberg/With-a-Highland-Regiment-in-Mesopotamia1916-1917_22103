@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22103#With-a-Highland-Regiment-in-Mesopotamia1916-1917
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-07-19'
 gutenberg_type: Text
